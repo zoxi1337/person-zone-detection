@@ -1,0 +1,1 @@
+model_path = "yolov8m.pt"
